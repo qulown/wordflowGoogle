@@ -1,0 +1,7 @@
+{
+  "name": "Wordflow",
+  "description": "A gamified writing app designed to help students and aspiring writers overcome writer's block. It uses sounds, scores, and completion rounds to challenge players to simply write without worrying about quality, making writing a fun and addictive habit. The app includes voice dictation and allows exporting work.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
